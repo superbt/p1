@@ -8,6 +8,7 @@ public class M2Application {
 
     public static void main(String[] args) {
         SpringApplication.run(M2Application.class, args);
+        System.out.println("p1.m1 is start");
     }
 
 }
